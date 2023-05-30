@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16501062438",
+    "project_id": "radwa-cb79f",
+    "storage_bucket": "radwa-cb79f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16501062438:android:39638d7f8da2d973f55fe7",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16501062438-d1akfcmac0tn36sjrm04bin842c2rueq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVW3HW8742jWYp8PxH5IeP9_mNE8VmedA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16501062438-d1akfcmac0tn36sjrm04bin842c2rueq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
